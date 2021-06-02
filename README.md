@@ -6,3 +6,12 @@ step 2 : Open termninal from project location and execut comment composer instal
 step 3: import the job portal give file
 step 4: All the end of all phases run php artisan serve 
 
+# employer login credencials 
+username:employer@123
+password:123456789
+url:http://localhost:8000/employer/login
+
+# jobseeker
+username:-prakashmca577
+password:123456789
+url:http://localhost:8000/jobseeker/login
